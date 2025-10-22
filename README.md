@@ -1,5 +1,6 @@
-# LFDIS
+# LFDIS:Lightweight and Fast High-Resolution Dichotomous Image Segmentation with Depth Guidance
 
+##**Note**: This work will be submitted to The Visual Computer. 
 ## Environment preparation
 
 ### Requirements
