@@ -1,4 +1,4 @@
-# LFDIS:Lightweight and Fast High-Resolution Dichotomous Image Segmentation with Depth Guidance
+# Efficient Depth-Guided Segmentation: Lightweight High-Resolution Dichotomous Image Analysis
 
 ##**Note**: This work will be submitted to The Visual Computer. 
 ## Environment preparation
