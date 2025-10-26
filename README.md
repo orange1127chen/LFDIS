@@ -48,13 +48,13 @@ DATASET_ROOT/
 
 ### Train&Test
 
-To train our PFNet on single GPU by following command,the trained models will be saved in savePath folder. You can modify datapath if you want to run your own datases.
+To train our Net on single GPU by following command,the trained models will be saved in savePath folder. You can modify datapath if you want to run your own datases.
 
 ```bash
 python train.py
 ```
 
-To test our PFNet on DIS5K, the prediction maps will be saved in DIS5K_Pre folder.
+To test our Net on DIS5K, the prediction maps will be saved in DIS5K_Pre folder.
 
 ```python
 python3 test.py 
